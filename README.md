@@ -77,7 +77,43 @@ I'm a **2nd Year IT Diploma student** at **SVKM's Shri Bhagubhai Mafatlal Polyte
 <img src="https://raw.githubusercontent.com/kavyavala007-pixel/kavyavala007-pixel/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-<sub>⚠️ This animated snake "eats" your contribution graph, but it needs a one-time setup on your account. I've written the exact steps + the workflow file for you below.</sub>
+To make this snake animation actually appear, create one more file in your repo at
+`.github/workflows/snake.yml` with this content, then run it once from the **Actions** tab:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: kavyavala007-pixel
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push snake SVG to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
