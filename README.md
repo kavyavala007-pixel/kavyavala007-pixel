@@ -2,12 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=3000&pause=800&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Kavya+Vala!" alt="Kavya Vala" />
 
-<br/>
-
-![Stars](https://img.shields.io/badge/⭐_STARS-11-000000?style=for-the-badge&labelColor=000000&color=161B22)
-![Forks](https://img.shields.io/badge/🍴_FORKS-0-000000?style=for-the-badge&labelColor=000000&color=161B22)
-![Followers](https://img.shields.io/badge/👤_FOLLOWERS-0-000000?style=for-the-badge&labelColor=000000&color=161B22)
-
 </div>
 
 <br/>
@@ -23,9 +17,7 @@
 
 **Hey there! I'm Kavya** 👋
 
-Software Engineering student who lives at the intersection of **clean code** and **clean charts**. By day, I write HTML/CSS/JS and wrestle with databases; by night, I turn messy numbers into Power BI dashboards that actually make sense. I believe good design isn't decoration — it's how you make complicated things feel simple.
-
-*(edit this paragraph with your own quirky details — hobbies, obsessions, whatever makes you, you)*
+I am an Information Technology student pursuing my diploma at Shri Bhagubhai Mafatlal Polytechnic & College of Engineering. I am passionate about building practical and innovative solutions through technology, with interests in Web Development, Software Engineering, Database Management Systems, and Data Visualization & Analytics. I enjoy learning new technologies, developing projects, and continuously improving my technical skills while exploring real-world applications of IT.
 
 </td>
 </tr>
