@@ -1,30 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Kavya%20Vala&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=IT%20Diploma%20Student%20%7C%20Web%20%26%20Data%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&duration=3000&pause=800&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=Kavya+Vala!" alt="Kavya Vala" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=550&lines=Coding+one+bug+at+a+time+%F0%9F%90%9B;Turning+data+into+dashboards+%F0%9F%93%8A;Second+Year+IT+Diploma+Student+%F0%9F%8E%93;Always+building+something+new+%E2%9A%A1" />
+<br/>
+
+![Stars](https://img.shields.io/badge/⭐_STARS-11-000000?style=for-the-badge&labelColor=000000&color=161B22)
+![Forks](https://img.shields.io/badge/🍴_FORKS-0-000000?style=for-the-badge&labelColor=000000&color=161B22)
+![Followers](https://img.shields.io/badge/👤_FOLLOWERS-0-000000?style=for-the-badge&labelColor=000000&color=161B22)
 
 </div>
 
 <br/>
 
-## 👩‍💻 About Me
+## 🧠 Know About Me
 
 <table>
 <tr>
-<td width="130" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="110"/>
+<td width="140">
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/brain_1f9e0.png" width="120"/>
 </td>
 <td>
 
-**Hey, I'm Kavya!** 👋
+**Hey there! I'm Kavya** 👋
 
-I'm a **2nd Year IT Diploma student** at **SVKM's Shri Bhagubhai Mafatlal Polytechnic and College of Engineering**. I like building clean web interfaces, working with databases, and turning raw numbers into dashboards that actually tell a story. Currently sharpening my skills in full-stack basics, DBMS, and data visualization — one project at a time.
+Software Engineering student who lives at the intersection of **clean code** and **clean charts**. By day, I write HTML/CSS/JS and wrestle with databases; by night, I turn messy numbers into Power BI dashboards that actually make sense. I believe good design isn't decoration — it's how you make complicated things feel simple.
 
-🔭 Currently exploring: **Web Development & Data Visualization**
-🌱 Learning more about: **DBMS & MongoDB**
-💬 Ask me about: **HTML, CSS, JS, SQL, Power BI**
-📫 Reach me at: **kavya.vala007@gmail.com**
+*(edit this paragraph with your own quirky details — hobbies, obsessions, whatever makes you, you)*
 
 </td>
 </tr>
@@ -32,92 +33,35 @@ I'm a **2nd Year IT Diploma student** at **SVKM's Shri Bhagubhai Mafatlal Polyte
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Built With
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,mongodb,git,vscode&theme=dark" />
-</p>
-
-<p align="center">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-<img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logo=databricks&logoColor=FF6F61" />
-<img src="https://img.shields.io/badge/Data_Visualization-000000?style=for-the-badge&logo=chartdotjs&logoColor=58A6FF" />
 </p>
-
-### 📊 Proficiency
-
-<table width="100%">
-<tr><td width="140">HTML / CSS</td><td>▰▰▰▰▰▰▰▰▰▱ 90%</td></tr>
-<tr><td>JavaScript</td><td>▰▰▰▰▰▰▰▱▱▱ 70%</td></tr>
-<tr><td>SQL</td><td>▰▰▰▰▰▰▰▰▱▱ 80%</td></tr>
-<tr><td>C / C++ / Java</td><td>▰▰▰▰▰▰▰▱▱▱ 70%</td></tr>
-<tr><td>MongoDB</td><td>▰▰▰▰▰▰▱▱▱▱ 60%</td></tr>
-<tr><td>Power BI</td><td>▰▰▰▰▰▰▰▰▱▱ 80%</td></tr>
-</table>
-
-<sub>👉 Adjust these percentages to reflect your actual confidence level.</sub>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Top Projects <sub>(built to learn, not just to look pretty)</sub>
 
 <table>
-<tr><td>🌐</td><td><b>PROJECT-ONE</b></td><td>Short punchy description of what it does.</td></tr>
-<tr><td>📊</td><td><b>DATA-DASHBOARD</b></td><td>A Power BI dashboard turning raw data into decisions.</td></tr>
-<tr><td>🗄️</td><td><b>DB-PROJECT</b></td><td>A database-driven mini project — swap in your real repo.</td></tr>
+<tr><td>🗂️</td><td><b>PROJECT-ONE</b></td><td>One-line description — swap in your real repo name and pitch.</td></tr>
+<tr><td>📊</td><td><b>DATA-DASHBOARD</b></td><td>Power BI dashboard that turns raw spreadsheets into decisions.</td></tr>
+<tr><td>🌐</td><td><b>PORTFOLIO-SITE</b></td><td>Personal site built with HTML, CSS & JS — because everyone needs one.</td></tr>
 </table>
 
-<sub>👉 Replace these with your actual pinned repositories and links.</sub>
+<sub>👉 Replace these three rows with your actual pinned repos and one witty line each.</sub>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kavyavala007-pixel/kavyavala007-pixel/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
-To make this snake animation actually appear, create one more file in your repo at
-`.github/workflows/snake.yml` with this content, then run it once from the **Actions** tab:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate the snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: kavyavala007-pixel
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-
-      - name: Push snake SVG to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-## 🔗 Connect With Me
+## 🔗 Connect
 
 <p align="center">
 <a href="https://github.com/kavyavala007-pixel"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -126,21 +70,23 @@ jobs:
 <a href="https://www.instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
 </p>
 
+<div align="center">
+<i>"Every project starts messy. It only gets good if you keep pushing commits."</i>
+</div>
+
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kavyavala007-pixel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyavala007-pixel&theme=github-dark-blue&hide_border=true&background=0D1117" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyavala007-pixel&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyavala007-pixel&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kavyavala007-pixel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyavala007-pixel&theme=github-dark-blue&hide_border=true&background=0D1117" height="160"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kavyavala007-pixel&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" width="100%"/>
+<div align="center">
+<sub>⭐ Thanks for stopping by — go star a repo before you leave.</sub>
+</div>
