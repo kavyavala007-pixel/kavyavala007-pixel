@@ -59,7 +59,7 @@ I am an Information Technology student pursuing my diploma at Shri Bhagubhai Maf
 <a href="https://github.com/kavyavala007-pixel"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kavya-vala-1857a2370/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="mailto:kavya.vala007@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-<a href="[https://www.instagram.com/YOUR_HANDLE](https://www.instagram.com/kavya.v.7?stkn=bGQwMnJnOXptNmdz)"><img src="https://www.instagram.com/kavya.v.7?stkn=bGQwMnJnOXptNmdz" /></a>
+<a href="[https://www.instagram.com/YOUR_HANDLE](https://www.instagram.com/kavya.v.7?stkn=bGQwMnJnOXptNmdz)"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
 </p>
 
 <div align="center">
